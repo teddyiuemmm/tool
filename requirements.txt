@@ -1,0 +1,6 @@
+aiohttp
+requests
+websockets
+aiofiles
+websocket-client
+discord.py

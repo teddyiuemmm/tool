@@ -1,0 +1,2 @@
+[2025-08-20 21:37:35] Setting up accounts with search_cookie and 1 buy_cookies
+[2025-08-20 21:37:38] Setting up accounts with search_cookie and 1 buy_cookies
